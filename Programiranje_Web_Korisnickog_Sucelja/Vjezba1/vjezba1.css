@@ -1,0 +1,124 @@
+body{
+    background-color: rgba(235, 178, 113, 0.404) !important;
+
+}
+
+h3{
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 30px;
+    color: rgba(235, 178, 113, 0.904);
+}
+
+
+.forma {
+    width: 70%;
+    padding: 10px;
+    margin-left: 15%;
+    margin-top:10%;
+    margin-bottom:10%;
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 4px 4px 8px 8px  rgba(231, 170, 101, 0.87);
+}
+
+
+input[type=text]{
+    border:3px solid  rgba(235, 178, 113, 0.404);
+    width:50%;
+    margin-left:2%;
+}
+
+
+.form-control:focus{
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.096) inset, 0 0 8px  rgba(248, 190, 125, 0.993) !important;
+    border-color:  rgba(235, 178, 113, 0.815) !important;   
+
+}
+
+.spol {
+    word-spacing: 5px;
+}
+
+.obavijesti{
+    word-spacing: 4px;
+}
+
+.kategorije{
+    word-spacing: 4px;
+}
+
+#label{
+    margin-left:18%;
+}
+
+
+#password,
+#phone,
+#email,
+#date,
+#adress,
+#number,
+#question,
+#country{
+    border:3px solid  rgba(235, 178, 113, 0.404);
+    width:50%;
+    margin-left:2%;
+}
+
+
+
+img{
+    width:50%;
+    margin-left: 20%;
+    border-radius: 20px;
+}
+
+.botuni{
+    margin-left:35%;
+    
+}
+
+
+button[type=reset]{
+    background-color:rgba(235, 178, 113, 0.904);
+    color: white;
+    border:none;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 1%;
+    border-radius: 12px;
+}
+
+button[type=submit]{
+    background-color:rgba(235, 178, 113, 0.904);
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 1%;
+    border-radius: 12px;
+
+}
+
+button:focus{
+    background-color: rgba(236, 202, 162, 0.993);
+}
+
+
+
+#range{
+    margin-left:40%;
+}
+
+
+.spam{
+    margin-left: 25%;
+}
+
+
+
+
